@@ -1,2 +1,2 @@
 # Java-JNI-Examples
-Materials gathered online to teach myself on how to use JNI.
+Materials gathered online to educate  myself on how to use JNI.
