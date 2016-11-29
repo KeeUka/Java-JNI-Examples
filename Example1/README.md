@@ -1,5 +1,18 @@
 # Example1
 
+## Credits
+
+This example is taked from \
+[Here](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html)
+with modifications in a few commands.
+
+## Notes
+
+This repository contains all compiled files. To start fresh, just assume that
+there is no file at all and you have to write HelloJNI.java in step 1.
+
+## Steps
+
 1. Look at HelloJNI.java. This class will load a C library called 'hello' and
 execute a native method called 'sayHello'.
 
