@@ -2,7 +2,7 @@
 
 ## Credits
 
-This example is taked from
+This example is taken from
 [Here](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html)
 with modifications in a few commands.
 
