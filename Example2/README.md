@@ -44,7 +44,7 @@ will implement here.
   Not that I am running on OS X. You might want to find a suitable command
   depending on your operating system.
 
-  Note that you need to name it with a prefix 'lib' and a file extension .jnilib.
+  Also, you need to name it with a prefix 'lib' and a file extension .jnilib.
   In our case libhello.jnilib. If you don't, in step 6 you wouldn't be able to
   link the library.
 6. To run the program, use this command
