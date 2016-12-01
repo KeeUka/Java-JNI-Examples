@@ -30,8 +30,8 @@ execute a native method called 'sayHello'.
 4. Write a C file to implement the header. You can look at HelloJNI.c
 5. Compile the C program with this command.
   ```
-  gcc -dynamiclib -o libhello.jnilib
-  -I/System/Library/Frameworks/JavaVM.framework/Headers HelloJNI.c
+  gcc -dynamiclib -o libhello.jnilib \
+  -I/System/Library/Frameworks/JavaVM.framework/Headers HelloJNI.c \
   -framework JavaVM
   ```
   Not that I am running on OS X. You might want to find a suitable command
