@@ -5,4 +5,7 @@ Materials gathered online to educate  myself on how to use JNI.
   https://github.com/KeeUka/Java-JNI-Examples/tree/master/Example1)
 
 - [Example2 - JNI with C hooking with C++](
-  https://github.com/KeeUka/Java-JNI-Examples/tree/master/Example1)
+  https://github.com/KeeUka/Java-JNI-Examples/tree/master/Example2)
+
+- [Example3 - JNI with C (Java Package)](
+  https://github.com/KeeUka/Java-JNI-Examples/tree/master/Example3)
